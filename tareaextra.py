@@ -1,5 +1,5 @@
 list = [1,2,3,4,5]
-print (sum(list))
+print ("El resultaod es :",sum(list))
 
 print ()
 
@@ -13,4 +13,4 @@ def multiplicador (numeros):
 
 list = [1,2,3,4,5]
 print(type(list))
-print(multiplicador(list)) 
+print("El resultaod es :", multiplicador(list)) 
