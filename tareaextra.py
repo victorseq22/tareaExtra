@@ -1,8 +1,6 @@
 list = [1,2,3,4,5]
 print ("El resultaod es :",sum(list))
 
-print ()
-
 def multiplicador (numeros):
     producto = 1
 
